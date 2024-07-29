@@ -1,6 +1,6 @@
 
-import java.util.*;
- public class Stack 
+import java.util.Scanner;
+ public class Stack //this is for pratice
     {
         int MaxSize,tos,stack[];
         //create_Stack:creates stack,init tos -1 and prepare stack for use
